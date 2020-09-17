@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "localhost",
+    "user": "mt123",
+    "password": "mt123",
+    "database": "mt",
+    "port": 3306,
+    "charset": "UTF8_GENERAL_CI",
+    "timezone": "local",
+    "multipleStatement": false
+  }
+}
